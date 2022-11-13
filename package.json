@@ -1,0 +1,15 @@
+{
+  "name": "backend-twopunch",
+  "version": "1.0.0",
+  "description": "backend-twopunch",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "rajkumar",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
